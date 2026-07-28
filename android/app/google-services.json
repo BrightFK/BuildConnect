@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199770307232",
+    "project_id": "builderconnect-34a49",
+    "storage_bucket": "builderconnect-34a49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199770307232:android:85ab2d9da1244b791027c5",
+        "android_client_info": {
+          "package_name": "com.example.artisan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_3Arxw227PJ88t6vyYoUZvW-eScBVjBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
