@@ -116,7 +116,7 @@ lib/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/builderconnect.git
+git clone https://github.com/BrightFK/builderconnect.git
 cd builderconnect
 ```
 
