@@ -43,3 +43,66 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Flutter
+.flutter-plugins
+build/
+*.lock
+.vscode/
+*.swo
+
+# Firebase
+firebase-debug.log
+firebase-error.log
+firebase.json
+.firebase/
+**/.firebaserc
+
+# Keys & Secrets (IMPORTANT!)
+*.p12
+*.pem
+*.key
+*.crt
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart  # Contains API keys - DO NOT COMMIT!
+
+# Environment
+.env
+*.env.*
+secrets/
+keys/
+
+# Logs
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Coverage
+coverage/
+
+# Web
+**/web/index.html  # Contains Firebase config
+
+# Android
+**/android/local.properties
+
+# iOS
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/*.xcworkspace/
+**/ios/*.xcuserdata/
+
+# macOS
+**/macos/Flutter/ephemeral/
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Gradle
+gradle-wrapper.jar
+.gradle/
